@@ -1,0 +1,7 @@
+pvporcupine
+pyaudio
+speechrecognition
+requests
+google-generativeai
+pydantic
+google-genai
