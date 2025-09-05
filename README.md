@@ -6,7 +6,7 @@ VoiceVLC is a Python-based project that integrates VLC Media Player with a voice
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/ssudhanshu488/VoiceVLC.git
+   git clone https://github.com/ssudhanshu488/VLCVox.git
    cd VoiceVLC
    ```
 
